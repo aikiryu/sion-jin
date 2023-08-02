@@ -1,0 +1,8 @@
+AOS 하는법
+((마스크 스크롤 내렸을때 스르륵 나타나는거!))
+
+AOS JS 구글링 - https://michalsnik.github.io/aos/
+다운로드 > 압축풀고 > dist
+aos.css/aos.js
+각각 css폴더와 js폴더에 넣기
+(how to/ https://anonyment.notion.site/AOS-910eba8586964e62a482ab41ea5f9e54)
